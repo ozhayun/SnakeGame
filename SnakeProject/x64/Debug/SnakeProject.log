@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\Meital\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\פרוייקי תכנות לגיט\SnakeProject\SnakeProject\Main.c(57,6): warning C4101: 'userChoice': unreferenced local variable
+C:\Users\Meital\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\פרוייקי תכנות לגיט\SnakeProject\SnakeProject\Main.c(186,12): warning C4013: 'time' undefined; assuming extern returning int
+  SnakeProject.vcxproj -> C:\Users\Meital\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\פרוייקי תכנות לגיט\SnakeProject\x64\Debug\SnakeProject.exe

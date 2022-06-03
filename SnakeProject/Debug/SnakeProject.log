@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\Meital\source\repos\SnakeProject\SnakeProject\Main.c(45,6): warning C4101: 'userChoice': unreferenced local variable
+  SnakeProject.vcxproj -> C:\Users\Meital\source\repos\SnakeProject\Debug\SnakeProject.exe
